@@ -1,0 +1,33 @@
+{
+    "auth": {
+        "usuario": "pezcurra@itiers.com",
+        "password": "717a60fe367f19c81072e830e4b42f50"
+    },
+    "service": {
+        "provision": "Empresa",
+        "operacion": "listar_empresa"
+    },
+    "parameters": {
+        "usuario": null,
+        "password": null,
+        "sesion": {
+            "usuario": "Usuario_Colppy",
+            "claveSesion": "152c2d5e9f606b83922a9ccbe3b081ef"
+        },
+        "idEmpresa": null,
+        "idFactura": null,
+        "fechaDesde": null,
+        "fechaHasta": null,
+        "start": 0,
+        "limit": 10
+    },
+    "filter": [{
+        "field": "IdEmpresa",
+        "op": "<>",
+        "value": "1"
+    }],
+    "order": {
+        "field": ["IdEmpresa"],
+        "order": "asc"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "auth":{
+    "usuario":"pezcurra@itiers.com", 
+    "password": "717a60fe367f19c81072e830e4b42f50" 
+    },
+    "service":{
+    "provision":"Usuario",
+    "operacion":"iniciar_sesion"
+    },
+    "parameters":{
+    "usuario":"pezcurra@itiers.com", 
+    "password":"717a60fe367f19c81072e830e4b42f50" 
+    }
+}
