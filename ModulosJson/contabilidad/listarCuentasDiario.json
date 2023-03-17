@@ -1,0 +1,18 @@
+{
+    "auth": {
+        "usuario": "pezcurra@itiers.com",
+        "password": "f603c630f0176e3ac7eab8fb1273c6fe" 
+    },
+    "service": {
+        "provision": "Contabilidad",
+        "operacion": "listar_cuentasdiario"
+    },
+    "parameters": {
+        "sesion": {
+            "usuario": "pezcurra@itiers.com", 
+            "claveSesion": "" 
+        },
+        "idEmpresa": "",
+        "query": ""
+    }
+}
