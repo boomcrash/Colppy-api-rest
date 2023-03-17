@@ -5,7 +5,7 @@
     },
     "service": {
         "provision": "Cliente",
-        "operacion": "listar_cliente"
+        "operacion": "leer_cliente"
     },
     "parameters": {
         "sesion": {
@@ -13,12 +13,6 @@
             "claveSesion": ""
         },
         "idEmpresa": "",
-        "start": 0,
-        "order": [
-            {
-                "field": "NombreFantasia",
-                "dir": "desc"
-            }
-        ]
+        "idCliente": ""
     }
 }
