@@ -11,9 +11,7 @@
         "sesion": {
             "usuario": "pezcurra@itiers.com",
             "claveSesion": ""
-        },
-        "start": 0,
-        "limit": 2
+        }
     },
     "order": {
         "field": ["IdEmpresa"],

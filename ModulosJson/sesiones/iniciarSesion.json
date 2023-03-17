@@ -1,7 +1,7 @@
 {
     "auth":{
-    "usuario":"pezcurra@itiers.com", 
-    "password": "f603c630f0176e3ac7eab8fb1273c6fe" 
+    "usuario":"", 
+    "password": "" 
     },
     "service":{
     "provision":"Usuario",
